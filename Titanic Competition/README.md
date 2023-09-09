@@ -76,5 +76,5 @@ Once the best model is selected and trained on the entire training dataset, it c
 
 ## Results
 The code with 49.4s run code with 0.76555 score
-
+________________________________________________________________________
 This repository provides a comprehensive overview of the Titanic survival prediction project, from data exploration to model building and evaluation. Feel free to explore the code and use it as a reference for your own machine learning projects.

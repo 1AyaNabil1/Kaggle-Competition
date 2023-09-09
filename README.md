@@ -2,7 +2,7 @@
 
 ![Kaggle Profile](https://img.shields.io/badge/Kaggle-Competitions-20BEFF.svg)
 
-## This repository contains my solution for the Kaggle competitions I participated in
+### This repository contains my solution for the Kaggle competitions I participated in
 
 ## License
 This project is licensed under the [MIT LICENSE] - see the LICENSE file for details.

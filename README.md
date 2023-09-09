@@ -12,15 +12,15 @@ Welcome to my Data Science Competitions Portfolio repository! This repository co
 ### [Competition 2: Predict CO2 Emissions in Rwanda](https://www.kaggle.com/competitions/playground-series-s3e20/leaderboard?tab=public)
 * **Description:** The goal of this competition is to predict CO2 emissions based on various environmental and geographical features. 
 * **Results:** The code achieves a score of 28.09473, which places it in the top 24% of submissions.
-* **Code:** [CO2 Prediction]((https://github.com/1AyaNabil1/Kaggle-Competition/tree/main/Titanic%20Competition](https://github.com/1AyaNabil1/Kaggle-Competition/tree/main/CO2%20Emmision))
+* **Code:** [CO2 Prediction](https://github.com/1AyaNabil1/Kaggle-Competition/tree/main/CO2%20Emmision)
 
 ## Contact
 
 If you have any questions or feedback regarding my competition submissions or would like to collaborate on a project, please feel free to contact me:
 
 * Email: ayanabil3200@gmail.com
-* LinkedIn: [Profile]([https://www.linkedin.com/in/aya-nabil-202781247/])
-* Kaggle: [Kaggle Profile]([https://www.kaggle.com/ayanabil11/])
+* LinkedIn: [Profile](https://www.linkedin.com/in/aya-nabil-202781247/)
+* Kaggle: [Kaggle Profile](https://www.kaggle.com/ayanabil11/)
 
 ## Acknowledgments
 

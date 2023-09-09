@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/1AyaNabil1/Kaggle-Competition.svg)](https://github.com/1AyaNabil1/Kaggle-Competition/blob/main/LICENSE)
 
 # Predicting CO2 Emissions in Rwanda Kaggle Competition
-This repository contains the code and steps to predict CO2 emissions in Rwanda for the Kaggle competition. The code achieves a score of 28.09473, which places it in the top 24% of submissions.
+This directory  contains the code and steps to predict CO2 emissions in Rwanda for the Kaggle competition. The code achieves a score of 28.09473, which places it in the top 24% of submissions.
 
 ## Introduction
 

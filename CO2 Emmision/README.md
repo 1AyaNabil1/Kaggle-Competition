@@ -1,6 +1,6 @@
 # Kaggle Competition: [Predict CO2 Emissions in Rwanda]
 
-[![Kaggle Competition Badge](https://img.shields.io/badge/Titanic-20BEFF.svg)](https://www.kaggle.com/competitions/playground-series-s3e20?rvi=1)
+[![Kaggle Competition Badge](https://img.shields.io/badge/Predict-CO2-Emissions-in-Rwanda-20BEFF.svg)](https://www.kaggle.com/competitions/playground-series-s3e20?rvi=1)
 [![License](https://img.shields.io/github/license/1AyaNabil1/Kaggle-Competition.svg)](https://github.com/1AyaNabil1/Kaggle-Competition/blob/main/LICENSE)
 
 # Predicting CO2 Emissions in Rwanda Kaggle Competition

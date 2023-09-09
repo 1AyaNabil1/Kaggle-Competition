@@ -1,7 +1,7 @@
 # Kaggle-Competition
 # Kaggle Competition: [Competition Name]
 
-[![Kaggle Profile](https://img.shields.io/badge/Kaggle-Competition%20Name-20BEFF.svg)][([https://www.kaggle.com/ayanabil11])]
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-Competition%20Name-20BEFF.svg)]
 
 ### This repository contains my solution for the Kaggle competitions I participated in
 

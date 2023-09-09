@@ -17,7 +17,12 @@ Welcome to my Data Science Competitions Portfolio repository! This repository co
 ## Contact
 
 If you have any questions or feedback regarding my competition submissions or would like to collaborate on a project, please feel free to contact me:
-
+<h3 align="left">Connect with me:</h3>
+                    <p align="left">
+                        <a href="www.linkedin.com/in/aya-nabil-202781247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya-nabil-202781247" height="30" width="40" /></a>
+                        <a href="https://www.hackerrank.com/ayanabil297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Aya Nabil" height="30" width="40" /></a>
+                        <a href="https://www.kaggle.com/ayanabil11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Aya Nabil" height="30" width="40" /></a>
+                    </p>
 * Email: ayanabil3200@gmail.com
 * LinkedIn: [Profile](https://www.linkedin.com/in/aya-nabil-202781247/)
 * Kaggle: [Kaggle Profile](https://www.kaggle.com/ayanabil11/)

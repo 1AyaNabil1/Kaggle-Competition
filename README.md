@@ -2,16 +2,8 @@
 
 ![Kaggle Profile](https://img.shields.io/badge/Kaggle-Competitions-20BEFF.svg)
 
-### This repository contains my solution for the Kaggle competitions I participated in
+## This repository contains my solution for the Kaggle competitions I participated in
 
-# Repo Structure:
-
-* ├── data/               # Data files
-* ├── notebooks/          # Jupyter notebooks for data analysis or experimentation
-* ├── README.md           # This README file
-* ├── requirements.txt    # List of dependencies
-* ├── LICENSE             # License information
-_____________________________________________________________________
 ## License
 This project is licensed under the [MIT LICENSE] - see the LICENSE file for details.
 

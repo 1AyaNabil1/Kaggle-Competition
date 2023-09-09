@@ -7,12 +7,12 @@ Welcome to my Data Science Competitions Portfolio repository! This repository co
 ### [Competition 1: Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 * **Description:** In this competition, we explore the famous Titanic dataset and build predictive models to determine the survival outcome of passengers.
 * **Results:** The code with 49.4s run code with 0.76555 score.
-* **Code:** [Titanic Prediction]([https://www.kaggle.com/competitions/titanic](https://github.com/1AyaNabil1/Kaggle-Competition/tree/main/Titanic%20Competition))
+* **Code:** [Titanic Prediction](https://github.com/1AyaNabil1/Kaggle-Competition/tree/main/Titanic%20Competition)
 
-### [Competition 2: Predict CO2 Emissions in Rwanda]([https://www.kaggle.com/competitions/playground-series-s3e20/leaderboard?tab=public])
+### [Competition 2: Predict CO2 Emissions in Rwanda](https://www.kaggle.com/competitions/playground-series-s3e20/leaderboard?tab=public)
 * **Description:** The goal of this competition is to predict CO2 emissions based on various environmental and geographical features. 
 * **Results:** The code achieves a score of 28.09473, which places it in the top 24% of submissions.
-* **Code:** [CO2 Prediction]([[https://www.kaggle.com/competitions/titanic](https://github.com/1AyaNabil1/Kaggle-Competition/tree/main/Titanic%20Competition](https://github.com/1AyaNabil1/Kaggle-Competition/tree/main/CO2%20Emmision)))
+* **Code:** [CO2 Prediction]((https://github.com/1AyaNabil1/Kaggle-Competition/tree/main/Titanic%20Competition](https://github.com/1AyaNabil1/Kaggle-Competition/tree/main/CO2%20Emmision))
 
 ## Contact
 

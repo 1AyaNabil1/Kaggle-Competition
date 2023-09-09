@@ -14,10 +14,10 @@ The Titanic dataset is divided into two parts: training and test datasets. I loa
 ## Table of Contents
 
 1. [Exploring the Data](#e)
-  * 1.1 [Data Exploration](#data)
+   * 1.1 [Data Exploration](#data)
 2. [Data Preprocessing](#Preprocessing)
-  * 2.1 [Handling Missing Values](#handling)
-  * 2.2 [Feature Engineering](#feature)
+   * 2.1 [Handling Missing Values](#handling)
+   * 2.2 [Feature Engineering](#feature)
 3. [Model Building](#model)
 4. [Model Optimization](#optimization)
 5. [Model Evaluation](#eval)

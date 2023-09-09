@@ -1,9 +1,9 @@
-# Kaggle Competition: [Titanic - Machine Learning from Disaster]
+# Kaggle Competition: Titanic - Machine Learning from Disaster
 
 [![Kaggle Competition Badge](https://img.shields.io/badge/Titanic-20BEFF.svg)](https://www.kaggle.com/competitions/titanic)
 [![License](https://img.shields.io/github/license/1AyaNabil1/Kaggle-Competition.svg)](https://github.com/1AyaNabil1/Kaggle-Competition/blob/main/LICENSE)
 
-This repository contains my solution for the Kaggle competition "[Titanic - Machine Learning from Disaster]" hosted at [Kaggle](https://www.kaggle.com/competitions/titanic).
+This repository contains my solution for the Kaggle competition "Titanic - Machine Learning from Disaster" hosted at [Kaggle](https://www.kaggle.com/competitions/titanic).
 
 In this competition, In this project, we explore the famous Titanic dataset and build predictive models to determine the survival outcome of passengers.
 

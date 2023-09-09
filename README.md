@@ -1,6 +1,6 @@
 # Kaggle-Competitions 
 
-![Kaggle Profile](https://img.shields.io/badge/Kaggle-Competition%20Name-20BEFF.svg)
+![Kaggle Profile](https://img.shields.io/badge/Kaggle-Competition%20s-20BEFF.svg)
 
 ### This repository contains my solution for the Kaggle competitions I participated in
 

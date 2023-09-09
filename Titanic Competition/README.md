@@ -18,7 +18,6 @@ _____________________________________________________________________________
 We begin by loading the training and test datasets, and merging them into a single DataFrame for analysis.
 
 <code>
-```python
 import numpy as np
 import pandas as pd 
 
@@ -28,7 +27,6 @@ training['train_test'] = 1
 test['train_test'] = 0
 test['Survived'] = np.NaN
 df = pd.concat([training, test])
-```
 </code>
 
 ### Data Exploration
@@ -43,10 +41,8 @@ I explore the data to understand its structure and characteristics. Key observat
 I address missing values in the dataset by imputing or dropping them as necessary. For example:
 
 <code>
-```python
 df.Age = df.Age.fillna(training.Age.median())
 df = df dropna(subset=["Embarked"])
-```
 </code>
 
 ### Feature Engineering

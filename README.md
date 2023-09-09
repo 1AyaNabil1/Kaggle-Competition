@@ -20,7 +20,7 @@ If you have any questions or feedback regarding my competition submissions or wo
 <h3 align="left">Connect with me:</h3>
                     <p align="left">
                         <a href="www.linkedin.com/in/aya-nabil-202781247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya-nabil-202781247" height="30" width="40" /></a>
-                        <a href="mailto:ayanabil3200@gmail.com" target="_blank"><img align="center" src="https://th.bing.com/th/id/R.8c77c51a3c5b55c61b75c680212b097c?rik=zByRViwI9TowGg&pid=ImgRaw&r=0" alt="Aya Nabil" height="30" width="40" /></a>
+                        <a href="mailto:ayanabil3200@gmail.com" target="_blank"><img align="center" src="https://th.bing.com/th/id/R.5fde8767848afe4abe9044e4d85c4d5c?rik=gaKh6DUNAOQpnw&pid=ImgRaw&r=0" alt="Aya Nabil" height="30" width="40" /></a>
                         <a href="https://www.kaggle.com/ayanabil11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Aya Nabil" height="30" width="40" /></a>
                     </p>
 

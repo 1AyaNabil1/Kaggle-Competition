@@ -1,4 +1,6 @@
 # 🧠 Digit Recognizer with Neural Network
+[![Kaggle Competition Badge](https://img.shields.io/badge/Digit_Recognizer-20BEFF.svg)](https://www.kaggle.com/competitions/digit-recognizer)  
+[![License](https://img.shields.io/github/license/1AyaNabil1/Kaggle-Competition.svg)](https://github.com/1AyaNabil1/Kaggle-Competition/blob/main/LICENSE)  
 
 Welcome to the **Digit Recognizer** project! 🎯 This repository contains an implementation of a simple neural network built from scratch using **NumPy** and **Pandas** to recognize handwritten digits from the **Kaggle Digit Recognizer** dataset. 🚀
 
@@ -34,8 +36,8 @@ Alternatively, if you're running this on Kaggle, the dependencies are already pr
 
 ## 🛠️ Project Structure
 ```
-├── digit_recognizer.py  # Main script
-├── README.md            # Project documentation
+├── only-mathematical-implementation.py  # Main script
+├── Readme.md            # Project documentation
 ├── submission.csv       # Final Kaggle submission file
 ```
 

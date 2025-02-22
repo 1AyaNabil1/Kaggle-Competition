@@ -1,78 +1,88 @@
-# Kaggle Competition: [Predict CO2 Emissions in Rwanda]
+# 🌍 Kaggle Competition: [Predict CO2 Emissions in Rwanda]  
 
-[![Kaggle Competition Badge](https://img.shields.io/badge/CO2_Prediction-20BEFF.svg)](https://www.kaggle.com/competitions/playground-series-s3e20?rvi=1)
-[![License](https://img.shields.io/github/license/1AyaNabil1/Kaggle-Competition.svg)](https://github.com/1AyaNabil1/Kaggle-Competition/blob/main/LICENSE)
+[![Kaggle Competition Badge](https://img.shields.io/badge/CO2_Prediction-20BEFF.svg)](https://www.kaggle.com/competitions/playground-series-s3e20?rvi=1)  
+[![License](https://img.shields.io/github/license/1AyaNabil1/Kaggle-Competition.svg)](https://github.com/1AyaNabil1/Kaggle-Competition/blob/main/LICENSE)  
 
-# Predicting CO2 Emissions in Rwanda Kaggle Competition
-This directory  contains the code and steps to predict CO2 emissions in Rwanda for the Kaggle competition. The code achieves a score of 28.09473, which places it in the top 24% of submissions.
+## 🔥 Predicting CO2 Emissions in Rwanda Kaggle Competition  
+This directory contains the code and steps to predict CO2 emissions in Rwanda for the Kaggle competition. The code achieves a score of **28.09473**, placing it in the **top 24%** of submissions. 🚀
 
-## Introduction
+---
 
-This directory contains the code and steps to predict CO2 emissions in Rwanda for the Kaggle competition. The goal of this competition is to predict CO2 emissions based on various environmental and geographical features. This README file provides an overview of the code, data analysis, feature engineering, and the machine learning model used for prediction.
+## 📌 Introduction  
+This directory provides the complete workflow for predicting CO2 emissions in Rwanda as part of a Kaggle competition. 🌿 The goal is to leverage environmental and geographical features to develop an accurate model for CO2 emissions prediction. This README outlines data analysis, feature engineering, and the machine learning approach used.
 
-## Table of Contents
+## 📖 Table of Contents  
+- [🌍 Kaggle Competition: \[Predict CO2 Emissions in Rwanda\]](#-kaggle-competition-predict-co2-emissions-in-rwanda)
+  - [🔥 Predicting CO2 Emissions in Rwanda Kaggle Competition](#-predicting-co2-emissions-in-rwanda-kaggle-competition)
+  - [📌 Introduction](#-introduction)
+  - [📖 Table of Contents](#-table-of-contents)
+  - [1️⃣ 📌 Introduction ](#1️⃣--introduction-)
+  - [2️⃣ ⚙️ Installation ](#2️⃣-️-installation-)
+  - [3️⃣ 📊 Data Preparation ](#3️⃣--data-preparation-)
+  - [4️⃣ 📈 Exploratory Data Analysis ](#4️⃣--exploratory-data-analysis-)
+  - [5️⃣ 🛠 Feature Engineering ](#5️⃣--feature-engineering-)
+  - [6️⃣ 🤖 Machine Learning ](#6️⃣--machine-learning-)
+  - [7️⃣ 📡 Modeling ](#7️⃣--modeling-)
+  - [8️⃣ 📉 Evaluation ](#8️⃣--evaluation-)
+  - [9️⃣ 🔍 Feature Importance ](#9️⃣--feature-importance-)
+  - [🔟 📤 Submission ](#--submission-)
 
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Data Preparation](#data-preparation)
-4. [Exploratory Data Analysis](#exploratory-data-analysis)
-5. [Feature Engineering](#feature-engineering)
-6. [Machine Learning](#machine-learning)
-7. [Modeling](#modeling)
-8. [Evaluation](#evaluation)
-9. [Feature Importance](#feature-importance)
-10. [Submission](#submission)
+---
 
-## 1. Introduction <a name="introduction"></a>
+## 1️⃣ 📌 Introduction <a name="introduction"></a>  
+This Kaggle competition involves predicting **CO2 emissions** in Rwanda using environmental and meteorological features. The objective is to develop a precise model that aids in understanding emissions trends and their potential environmental impact. 🌱
 
-This Kaggle competition involves predicting CO2 emissions in Rwanda based on various environmental and meteorological features. The goal is to develop a model that accurately predicts CO2 emissions, which can have significant environmental and health implications.
+---
 
-## 2. Installation <a name="installation"></a>
-
-Before running the code, ensure you have the required libraries installed:
-
-```python
+## 2️⃣ ⚙️ Installation <a name="installation"></a>  
+Before running the code, install the required libraries:  
+```bash
 pip install numpy pandas matplotlib seaborn xgboost scikit-learn plotly
 ```
 
-## 3. Data Preparation <a name="data-preparation"></a>
-Load the datasets:
+---
+
+## 3️⃣ 📊 Data Preparation <a name="data-preparation"></a>  
+Load the datasets:  
 ```python
 sample = pd.read_csv("sample_submission.csv")
 train = pd.read_csv("train.csv")
 test = pd.read_csv("test.csv")
 ```
-Understand the nature of the data, check for missing values, and determine the data types:
-
+Check for missing values and data types:  
 ```python
 df.isnull().sum()
 df.info()
 ```
-## 4. Exploratory Data Analysis <a name="exploratory-data-analysis"></a>
-Explore the data to gain insights into its distribution and trends:
 
-* Visualize the distribution of emissions.
-* Analyze the impact of COVID-19 on emissions.
-* Explore geographical and temporal trends.
+---
 
-## 5. Feature Engineering <a name="feature-engineering"></a>
+## 4️⃣ 📈 Exploratory Data Analysis <a name="exploratory-data-analysis"></a>  
+Gain insights into data distribution and trends:
+✅ Visualize **CO2 emissions** distribution 📊  
+✅ Analyze the impact of **COVID-19** on emissions 🦠  
+✅ Explore **geographical & temporal trends** 🌍  
 
-* Create new features such as cyclic features for months and weeks, holiday indicators, and rotational coordinates.
-* Handle missing values using imputation techniques.
-* Adjust emissions data for the COVID-19 effect in 2020.
+---
 
+## 5️⃣ 🛠 Feature Engineering <a name="feature-engineering"></a>  
+🔹 Create new features (e.g., **cyclic time features, holiday indicators, rotational coordinates**).  
+🔹 Handle missing values with **imputation techniques**.  
+🔹 Adjust emissions data to account for **COVID-19 effects in 2020**.  
 
-## 6. Machine Learning <a name="machine-learning"></a>
+---
 
-* Select relevant features for modeling.
-* Perform dimensionality reduction using PCA.
-* Train a machine learning model, such as XGBoost, to predict CO2 emissions.
-* Evaluate the model's performance using RMSE.
+## 6️⃣ 🤖 Machine Learning <a name="machine-learning"></a>  
+📌 **Key steps in model development:**  
+🔹 Feature selection 🎯  
+🔹 **Dimensionality reduction** using PCA 📉  
+🔹 Training **XGBoost** model 🚀  
+🔹 **Evaluating** performance using RMSE 📊  
 
-## 7. Modeling <a name="modeling"></a>
+---
 
-Define the features and target variable, split the data into training and testing sets, and train a model using XGBoost:
-
+## 7️⃣ 📡 Modeling <a name="modeling"></a>  
+Define **features & target variable**, split the data, and train the model using XGBoost:  
 ```python
 X, y = train[features], train[target]
 
@@ -90,17 +100,25 @@ pipeline.fit(X_train, y_train)
 y_pred = pipeline.predict(X_test)
 ```
 
-## 8. Evaluation <a name="evaluation"></a>
-Evaluate the model's performance using RMSE and visualize the actual vs. predicted values.
+---
 
-## 9. Feature Importance <a name="feature-importance"></a>
-Analyze feature importance to understand which features have the most impact on the model's predictions.
+## 8️⃣ 📉 Evaluation <a name="evaluation"></a>  
+Evaluate model performance using **RMSE** and visualize actual vs. predicted values 📈.  
 
-## 10. Submission <a name="submission"></a>
-Prepare the submission file by predicting emissions for the test dataset and saving the results to a CSV file:
+---
+
+## 9️⃣ 🔍 Feature Importance <a name="feature-importance"></a>  
+Identify the most influential features in predicting **CO2 emissions** 🧐.  
+
+---
+
+## 🔟 📤 Submission <a name="submission"></a>  
+Generate predictions for the test dataset and prepare the submission file:  
 ```python
 sample['emission'] = pipeline.predict(test[features])
 sample.to_csv('submission.csv', index=False)
 ```
 
+---
 
+🚀 **Let's achieve top ranks on the Kaggle leaderboard!** 🏆
